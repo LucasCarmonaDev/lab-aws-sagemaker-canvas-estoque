@@ -1,4 +1,4 @@
-# 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# 🐱‍💻 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning para prever o estoque de produtos de tecnologia com base em um conjunto de dados simulado. O projeto foi desenvolvido como parte de um bootcamp para demonstrar habilidades em ciência de dados e machine learning.
 
